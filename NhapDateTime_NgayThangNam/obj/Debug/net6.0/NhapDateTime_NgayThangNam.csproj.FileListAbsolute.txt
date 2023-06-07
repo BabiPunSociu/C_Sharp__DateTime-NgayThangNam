@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\C#Programming\NhapDateTime_NgayThangNam\NhapDateTime_NgayThangNam\bin\Debug\net6.0\NhapDateTime_NgayThangNam.exe
+C:\Users\ADMIN\source\C#Programming\NhapDateTime_NgayThangNam\NhapDateTime_NgayThangNam\bin\Debug\net6.0\NhapDateTime_NgayThangNam.deps.json
+C:\Users\ADMIN\source\C#Programming\NhapDateTime_NgayThangNam\NhapDateTime_NgayThangNam\bin\Debug\net6.0\NhapDateTime_NgayThangNam.runtimeconfig.json
+C:\Users\ADMIN\source\C#Programming\NhapDateTime_NgayThangNam\NhapDateTime_NgayThangNam\bin\Debug\net6.0\NhapDateTime_NgayThangNam.dll
+C:\Users\ADMIN\source\C#Programming\NhapDateTime_NgayThangNam\NhapDateTime_NgayThangNam\bin\Debug\net6.0\NhapDateTime_NgayThangNam.pdb
+C:\Users\ADMIN\source\C#Programming\NhapDateTime_NgayThangNam\NhapDateTime_NgayThangNam\obj\Debug\net6.0\NhapDateTime_NgayThangNam.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\C#Programming\NhapDateTime_NgayThangNam\NhapDateTime_NgayThangNam\obj\Debug\net6.0\NhapDateTime_NgayThangNam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\C#Programming\NhapDateTime_NgayThangNam\NhapDateTime_NgayThangNam\obj\Debug\net6.0\NhapDateTime_NgayThangNam.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\C#Programming\NhapDateTime_NgayThangNam\NhapDateTime_NgayThangNam\obj\Debug\net6.0\NhapDateTime_NgayThangNam.AssemblyInfo.cs
+C:\Users\ADMIN\source\C#Programming\NhapDateTime_NgayThangNam\NhapDateTime_NgayThangNam\obj\Debug\net6.0\NhapDateTime_NgayThangNam.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\C#Programming\NhapDateTime_NgayThangNam\NhapDateTime_NgayThangNam\obj\Debug\net6.0\NhapDateTime_NgayThangNam.dll
+C:\Users\ADMIN\source\C#Programming\NhapDateTime_NgayThangNam\NhapDateTime_NgayThangNam\obj\Debug\net6.0\refint\NhapDateTime_NgayThangNam.dll
+C:\Users\ADMIN\source\C#Programming\NhapDateTime_NgayThangNam\NhapDateTime_NgayThangNam\obj\Debug\net6.0\NhapDateTime_NgayThangNam.pdb
+C:\Users\ADMIN\source\C#Programming\NhapDateTime_NgayThangNam\NhapDateTime_NgayThangNam\obj\Debug\net6.0\NhapDateTime_NgayThangNam.genruntimeconfig.cache
+C:\Users\ADMIN\source\C#Programming\NhapDateTime_NgayThangNam\NhapDateTime_NgayThangNam\obj\Debug\net6.0\ref\NhapDateTime_NgayThangNam.dll

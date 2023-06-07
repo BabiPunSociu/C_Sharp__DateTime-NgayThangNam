@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NhapDateTime_NgayThangNam/1.0.0": {
+        "runtime": {
+          "NhapDateTime_NgayThangNam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NhapDateTime_NgayThangNam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
